@@ -11,3 +11,7 @@
 * Análisis de datos low cost con bcolz/bquery
   * Diego Hueltes (@DiegoHueltes)
   * [Repo](https://github.com/DiegoHueltes/bcolz-bquery-pycones2016)
+
+* Argentina en Python: comunidad, sueños, viajes y aprendizaje
+  * Manuel Kaufmann
+  * [PDF](http://2016.es.pycon.org/media/keynotes/aep-keynote.pdf)
