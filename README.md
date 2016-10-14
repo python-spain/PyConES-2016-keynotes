@@ -116,3 +116,7 @@
  * Rubén Crespo Cano
  * [PDF](http://2016.es.pycon.org/media/keynotes/pycones-2016_FhJk7AK.pdf)
  
+* [Depurando como un pro: porque llenar un script con prints es cutre](http://2016.es.pycon.org/es/schedule/depurando-como-un-pro-porque-llenar-un-script-con/)
+ * Javi Romero
+ * [Slides](https://slides.com/javiromero/depurando-como-un-pro-porque-llenar-un-script-con-prints-es-cutre/live#/)
+ 
