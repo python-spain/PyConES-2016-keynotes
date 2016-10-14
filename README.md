@@ -131,3 +131,7 @@
 * [Beautiful Python (in Spanish)](http://2016.es.pycon.org/es/schedule/beautiful-python-in-spanish/)
  * Alicia Pérez
  * [Slides](http://slides.com/aliciapj/beautifulpython)
+
+* [Tu código apesta, pero puedes tomar medidas](http://2016.es.pycon.org/es/schedule/tu-codigo-apesta-pero-puedes-tomar-medidas/)
+ * Jesús Marín
+ * [Slides](http://pycones16.jesusmg.org/)
