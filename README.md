@@ -147,3 +147,7 @@
 * [Per Shaolin ad Astra](http://2016.es.pycon.org/es/schedule/per-shaolin-ad-astra/)
  * Guillem Duran Ballester
  * [Repo](https://github.com/Guillem-db/PyconEs-2016)
+
+* [Por qué Python mola tanto - Capítulo 462: Requests](http://2016.es.pycon.org/es/schedule/por-que-python-mola-tanto-capitulo-462-requests/)
+ * César García Tapia
+ * [Slides](http://2016.es.pycon.org/media/keynotes/requests.zip)
