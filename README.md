@@ -183,3 +183,7 @@
 * [Codecombat: Aprendiendo Python mientras matas Orcos](http://2016.es.pycon.org/es/schedule/codecombat-aprendiendo-python-mientras-matas-orco/)
  * Jose Maria Alvarez Rey
  * [Slides](http://slides.com/josemariaalvarezrey/pycones2016-codecombat)
+
+* [Haciendo matemáticas con Python](http://2016.es.pycon.org/es/schedule/haciendo-matematicas-con-python/)
+ * Daniel Domene y Carlos Planelles
+ * [Slides](https://github.com/planelles20/PyConES-HaciendoMates/blob/master/Mates_Python.ipynb)
