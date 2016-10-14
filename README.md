@@ -155,3 +155,8 @@
 * [Distributed computing with Dask]()
  * Israel Saeta Pérez
  * [Slides](http://slides.com/israelsaetaperez/dask-pycones16#/)
+
+* [Big Data Analytics low cost con Bcolz / Bquery](http://2016.es.pycon.org/es/schedule/big-data-analytics-low-cost-con-bcolz-bquery/)
+ * J. Diego Hueltes Vega
+ * [Repo](https://github.com/DiegoHueltes/bcolz-bquery-pycones2016)
+ 
