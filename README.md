@@ -123,3 +123,7 @@
 * [OSINT Tools for security auditing](http://2016.es.pycon.org/es/schedule/osint-tools-for-security-auditing/)
  * José Manuel Ortega
  * [Repo](https://github.com/jmortega/osint_tools_security_auditing)
+
+* [¿Podemos predecir si Twitter hundirá un banco?](http://2016.es.pycon.org/es/schedule/podemos-predecir-si-twitter-hundira-un-banco/)
+ * Carlos Perales González
+ * [Slides](http://es.slideshare.net/CarlosPerales/podemos-predecir-si-twitter-hundir-un-banco)
