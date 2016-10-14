@@ -48,3 +48,6 @@
  * Alejadro Gómez Morón
  * [Slides](http://es.slideshare.net/bedjango/qa-4-python)
 
+* [Manejo de static con bower y gulp para Django](http://2016.es.pycon.org/es/schedule/manejo-de-static-con-bower-y-gulp-para-django/)
+ * Tomas Garzon Hervas
+ * [Slides](http://slides.com/tomasgarzon/django-gulp)
