@@ -171,3 +171,7 @@
 * [PALM. Big data, streaming y microservicios todo en uno](http://2016.es.pycon.org/es/schedule/palm-big-data-streaming-y-microservicios-todo-en/)
  * Guillem Borrell Nogueras
  * [Repo](https://github.com/nfqsolutions/pylm)
+
+* [Móntate tu propio bot por cuatro duros](http://2016.es.pycon.org/es/schedule/montate-tu-propio-bot-por-cuatro-duros/)
+ * Alberto Fernández Valiente
+ * [Repo](https://voodmania.github.io/pycones2016-presentacion/)
