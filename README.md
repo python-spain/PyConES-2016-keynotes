@@ -175,3 +175,8 @@
 * [Móntate tu propio bot por cuatro duros](http://2016.es.pycon.org/es/schedule/montate-tu-propio-bot-por-cuatro-duros/)
  * Alberto Fernández Valiente
  * [Repo](https://voodmania.github.io/pycones2016-presentacion/)
+
+* [La gran explosión de datos en astronomía. Cómo sobrevivir a la avalancha de datos usando Python](http://2016.es.pycon.org/es/schedule/la-gran-explosion-de-datos-en-astronomia-como-sob/)
+ * Jose Sabater Montes
+ * [PDF](http://2016.es.pycon.org/media/keynotes/jsabater-PyConES2016.pdf)
+ 
