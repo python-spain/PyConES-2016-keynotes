@@ -167,3 +167,7 @@
 * [A Primer on Recommendation Systems](http://2016.es.pycon.org/es/schedule/a-primer-on-recommendation-systems/)
  * Manuel Garrido Peña
  * [Repo](https://github.com/manugarri/pycones_2016_talk_recommenders)
+
+* [PALM. Big data, streaming y microservicios todo en uno](http://2016.es.pycon.org/es/schedule/palm-big-data-streaming-y-microservicios-todo-en/)
+ * Guillem Borrell Nogueras
+ * [Repo](https://github.com/nfqsolutions/pylm)
