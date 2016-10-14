@@ -139,3 +139,7 @@
 * [py - reglas de asociación](http://2016.es.pycon.org/es/schedule/py-reglas-de-asociacion/)
  * Claudia Guirao y Miquel Camprodon
  * [Repo](https://github.com/intiveda/pyreglasasociacion)
+
+* [La bicha ahora también hace hardware](http://2016.es.pycon.org/es/schedule/la-bicha-ahora-tambien-hace-hardware/)
+ * Cristóbal Contreras Rubio
+ * [Slides](https://slides.com/crisconru/deck-1-2/)
