@@ -27,3 +27,7 @@
 * [TDD Básico](http://2016.es.pycon.org/es/schedule/tdd-basico/)
  * Jaime Gil de Sagredo, Isidro López, Alberto Pérez
  * [Repo](https://github.com/aleasoluciones/pycones2016)
+
+* [Creating Dashboards with GrimoireELK Python Analytics Platform](http://2016.es.pycon.org/es/schedule/creating-dashboards-with-grimoireelk/)
+ * Alvaro del Castillo San Felix
+ * [PDF](http://2016.es.pycon.org/media/keynotes/gelk-workshop_0K9gBtK.pdf)
