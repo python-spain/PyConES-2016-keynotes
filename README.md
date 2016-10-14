@@ -163,3 +163,7 @@
 * [Tryton: Un ERP que se adapta a tus necesidades sin ataduras](http://2016.es.pycon.org/es/schedule/tryton-un-erp-que-se-adapta-a-tus-necesidades-sin/)
  * Sergi Almacellas Abellana
  * [Repo](http://pokoli.github.io/tryton-erp-adapted-to-your-needs)
+
+* [A Primer on Recommendation Systems](http://2016.es.pycon.org/es/schedule/a-primer-on-recommendation-systems/)
+ * Manuel Garrido Peña
+ * [Repo](https://github.com/manugarri/pycones_2016_talk_recommenders)
