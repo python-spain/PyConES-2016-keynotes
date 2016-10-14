@@ -63,3 +63,7 @@
 * [Heydjbot: Spotify & Telegram. Una historia de amor](http://2016.es.pycon.org/es/schedule/heydjbot-spotify-telegram-una-historia-de-amor/)
  * Jose Maria Alvarez Rey
  * [Slides](http://slides.com/josemariaalvarezrey/pycones2016-telegram-spotify)
+
+* [Aplicaciones de escritorio con python3 y gtk+](http://2016.es.pycon.org/es/schedule/aplicaciones-de-escritorio-con-python3-y-gtk/)
+ * Daniel García Moreno
+ * [Repo](https://github.com/danigm/python3-gtk)
