@@ -51,3 +51,7 @@
 * [Manejo de static con bower y gulp para Django](http://2016.es.pycon.org/es/schedule/manejo-de-static-con-bower-y-gulp-para-django/)
  * Tomas Garzon Hervas
  * [Slides](http://slides.com/tomasgarzon/django-gulp)
+
+* [Test de infraestructura con pytest](http://2016.es.pycon.org/es/schedule/test-de-infraestructura-con-pytest/)
+ * Agustín Herranz Cecilia
+ * [Repo](https://github.com/tinproject/test_infraestructura_pycones16)
