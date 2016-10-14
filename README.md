@@ -87,3 +87,7 @@
 * [Breve introducción a los algoritmos genéticos](http://2016.es.pycon.org/es/schedule/breve-introduccion-a-los-algoritmos-geneticos/)
  * Siro Moreno
  * [PDF](http://2016.es.pycon.org/media/keynotes/Introducci%C3%B3n_a_los_algoritmos_gen%C3%A9ticos.pdf)
+
+* [Efficient Django](http://2016.es.pycon.org/es/schedule/efficient-django/)
+ * David Arcos
+ * [Slides](http://www.slideshare.net/DZPM/efficient-django-64113328)
