@@ -1,4 +1,6 @@
-# pycones
+# PyConES 2016
+
+A list with all the known documentation. Feel free to PR with more data ^^
 
 * [Personalizando nuestro Tryton ERP](http://2016.es.pycon.org/es/schedule/personalizando-nuestro-tryton-erp/)
  * Sergi Almacellas Abellana
