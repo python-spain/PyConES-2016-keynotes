@@ -67,3 +67,8 @@
 * [Aplicaciones de escritorio con python3 y gtk+](http://2016.es.pycon.org/es/schedule/aplicaciones-de-escritorio-con-python3-y-gtk/)
  * Daniel García Moreno
  * [Repo](https://github.com/danigm/python3-gtk)
+ 
+* [Python o como mejorar la vida de un administrador de sistemas](http://2016.es.pycon.org/es/schedule/python-o-como-mejorar-la-vida-de-un-administrador/)
+ * Juan Diego Godoy Robles
+ * [Repo](https://github.com/klashxx/PyConES)
+
