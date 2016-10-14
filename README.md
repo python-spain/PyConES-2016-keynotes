@@ -15,3 +15,8 @@
 * Argentina en Python: comunidad, sueños, viajes y aprendizaje
   * Manuel Kaufmann
   * [PDF](http://2016.es.pycon.org/media/keynotes/aep-keynote.pdf)
+
+* [Personalizando nuestro Tryton ERP](http://2016.es.pycon.org/es/schedule/personalizando-nuestro-tryton-erp/)
+ * Sergi Almacellas Abellana
+ * [Repo](http://pokoli.github.io/customizing-our-tryton)
+
