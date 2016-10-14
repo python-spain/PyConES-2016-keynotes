@@ -100,4 +100,7 @@
  * Daniel Domene y Carlos Planelles
  * [Slides](https://github.com/planelles20/PyConES-PythonEmpresa/blob/master/PyConES16_Python.ipynb)
 
-
+* [osBrain: a general-purpose multi-agent system module](http://2016.es.pycon.org/es/schedule/osbrain-a-general-purpose-multi-agent-system-modu/)
+ * Miguel Sánchez de León Peque
+ * [Repo](https://peque.github.io/PyConES-Spain-2016-osbrain/)
+ 
