@@ -43,4 +43,8 @@
 * [Cómo construir un API del que que tus padres se sientan orgullosos](http://2016.es.pycon.org/es/schedule/como-construir-un-api-del-que-que-tus-padres/)
  * Adrián Matellanes
  * [Slides](https://speakerdeck.com/amatellanes/como-construir-un-api-del-que-tus-padres-se-sientan-orgullosos)
- 
+
+* [QA 4 Python](http://2016.es.pycon.org/es/schedule/qa-4-python/)
+ * Alejadro Gómez Morón
+ * [Slides](http://es.slideshare.net/bedjango/qa-4-python)
+
