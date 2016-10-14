@@ -79,3 +79,7 @@
 * [Adelgazando los modelos de Django](http://2016.es.pycon.org/es/schedule/adelgazando-los-modelos-de-django/)
  * Héctor Pablos López
  * [Slides](http://slides.com/hectorpablos/adelgazando-modelos-django)
+
+* [Cordova, desarrolla apps multiplataformas sin morir en el intento](http://2016.es.pycon.org/es/schedule/cordova-desarrolla-apps-multi/)
+ * Andros Fenollosa
+ * [Slides](http://2016.es.pycon.org/media/keynotes/Charla_pycones16.odp)
