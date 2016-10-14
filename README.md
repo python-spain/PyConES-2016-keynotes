@@ -160,3 +160,6 @@
  * J. Diego Hueltes Vega
  * [Repo](https://github.com/DiegoHueltes/bcolz-bquery-pycones2016)
  
+* [Tryton: Un ERP que se adapta a tus necesidades sin ataduras](http://2016.es.pycon.org/es/schedule/tryton-un-erp-que-se-adapta-a-tus-necesidades-sin/)
+ * Sergi Almacellas Abellana
+ * [Repo](http://pokoli.github.io/tryton-erp-adapted-to-your-needs)
