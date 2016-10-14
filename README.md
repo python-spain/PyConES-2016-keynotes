@@ -59,3 +59,7 @@
 * [Scaling Django - Running Django in Kubernetes](http://2016.es.pycon.org/es/schedule/scaling-django-running-django-in-kubernetes/)
  * Ivan Pedrazas
  * [Doc](https://docs.google.com/presentation/d/1_t0XGu6_4ZKsrLVIk6geQwaXGkWaBcLESdahPC2KWuo/edit?usp=sharing)
+
+* [Heydjbot: Spotify & Telegram. Una historia de amor](http://2016.es.pycon.org/es/schedule/heydjbot-spotify-telegram-una-historia-de-amor/)
+ * Jose Maria Alvarez Rey
+ * [Slides](http://slides.com/josemariaalvarezrey/pycones2016-telegram-spotify)
