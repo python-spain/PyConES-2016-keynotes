@@ -187,3 +187,7 @@
 * [Haciendo matemáticas con Python](http://2016.es.pycon.org/es/schedule/haciendo-matematicas-con-python/)
  * Daniel Domene y Carlos Planelles
  * [Slides](https://github.com/planelles20/PyConES-HaciendoMates/blob/master/Mates_Python.ipynb)
+
+* [Argentina en Python: comunidad, sueños, viajes y aprendizaje](http://2016.es.pycon.org/es/schedule/argentina-en-python-comunidad-sue%C3%B1os-viajes/)
+ * Manuel Kaufmann
+ * [PDF](http://2016.es.pycon.org/media/keynotes/aep-keynote.pdf)
