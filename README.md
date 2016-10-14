@@ -143,3 +143,7 @@
 * [La bicha ahora también hace hardware](http://2016.es.pycon.org/es/schedule/la-bicha-ahora-tambien-hace-hardware/)
  * Cristóbal Contreras Rubio
  * [Slides](https://slides.com/crisconru/deck-1-2/)
+
+* [Per Shaolin ad Astra](http://2016.es.pycon.org/es/schedule/per-shaolin-ad-astra/)
+ * Guillem Duran Ballester
+ * [Repo](https://github.com/Guillem-db/PyconEs-2016)
