@@ -151,3 +151,7 @@
 * [Por qué Python mola tanto - Capítulo 462: Requests](http://2016.es.pycon.org/es/schedule/por-que-python-mola-tanto-capitulo-462-requests/)
  * César García Tapia
  * [Slides](http://2016.es.pycon.org/media/keynotes/requests.zip)
+
+* [Distributed computing with Dask]()
+ * Israel Saeta Pérez
+ * [Slides](http://slides.com/israelsaetaperez/dask-pycones16#/)
