@@ -108,3 +108,6 @@
  * Adolfo Rosillo y resto del equipo de #ThePymientoProject
  * [Slides](http://slides.com/crisconru/deck-1)
  
+* [Cómo crear tu propio Shodan con Python](http://2016.es.pycon.org/es/schedule/como-crear-tu-propio-shodan-de-casa/)
+ * Jorge Coronado (@JorgeWebsec) 
+ * [Slides](http://es.slideshare.net/quantikacatorce/cmo-crear-tu-propio-shodan-con-python)
