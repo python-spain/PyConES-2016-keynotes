@@ -127,3 +127,7 @@
 * [¿Podemos predecir si Twitter hundirá un banco?](http://2016.es.pycon.org/es/schedule/podemos-predecir-si-twitter-hundira-un-banco/)
  * Carlos Perales González
  * [Slides](http://es.slideshare.net/CarlosPerales/podemos-predecir-si-twitter-hundir-un-banco)
+
+* [Beautiful Python (in Spanish)](http://2016.es.pycon.org/es/schedule/beautiful-python-in-spanish/)
+ * Alicia Pérez
+ * [Slides](http://slides.com/aliciapj/beautifulpython)
