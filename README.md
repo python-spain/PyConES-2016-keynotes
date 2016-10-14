@@ -72,3 +72,6 @@
  * Juan Diego Godoy Robles
  * [Repo](https://github.com/klashxx/PyConES)
 
+* [Traveling in "datetime"](http://2016.es.pycon.org/es/schedule/traveling-in-datetime/)
+ * Mario Corchero
+ * [Repo](https://mariocj89.github.io/reveal.js/datetime-pycones2016.html#/)
