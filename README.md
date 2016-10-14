@@ -104,3 +104,7 @@
  * Miguel Sánchez de León Peque
  * [Repo](https://peque.github.io/PyConES-Spain-2016-osbrain/)
  
+* [#ThePymientoProject Arte-Tecnología-Experimentación conectados por Python](http://2016.es.pycon.org/es/schedule/thepymientoproject-arte-tecnologia-experimentacio/)
+ * Adolfo Rosillo y resto del equipo de #ThePymientoProject
+ * [Slides](http://slides.com/crisconru/deck-1)
+ 
