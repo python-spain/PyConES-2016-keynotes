@@ -35,3 +35,7 @@
 * [Sistemas distribuidos en Python](http://2016.es.pycon.org/es/schedule/sistemas-distribuidos-en-python/)
  * Guillem Borrell Nogueras
  * [Repo](https://github.com/nfqsolutions/python-distributed)
+
+* [Hola mundo, desde el fichero a la pantalla](http://2016.es.pycon.org/es/schedule/hola-mundo-desde-el-fichero-a-la-pantalla/)
+ * Jesús Espino
+ * [Repo](https://github.com/jespino/hola-mundo)
