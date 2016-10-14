@@ -23,3 +23,7 @@
 * [Paquetes básicos de Python Científico](http://2016.es.pycon.org/es/schedule/paquetes-basicos-de-python-cientifico/)
  * Siro Moreno
  * [Repo](https://github.com/AeroPython/Taller-Aeropython-PyConEs16)
+
+* [TDD Básico](http://2016.es.pycon.org/es/schedule/tdd-basico/)
+ * Jaime Gil de Sagredo, Isidro López, Alberto Pérez
+ * [Repo](https://github.com/aleasoluciones/pycones2016)
