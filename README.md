@@ -111,3 +111,8 @@
 * [Cómo crear tu propio Shodan con Python](http://2016.es.pycon.org/es/schedule/como-crear-tu-propio-shodan-de-casa/)
  * Jorge Coronado (@JorgeWebsec) 
  * [Slides](http://es.slideshare.net/quantikacatorce/cmo-crear-tu-propio-shodan-con-python)
+
+* [Optimización automática de modelos bioinspirados de visión](http://2016.es.pycon.org/es/schedule/optimizacion-automatica-de-modelos-bioinspirados-d/)
+ * Rubén Crespo Cano
+ * [PDF](http://2016.es.pycon.org/media/keynotes/pycones-2016_FhJk7AK.pdf)
+ 
