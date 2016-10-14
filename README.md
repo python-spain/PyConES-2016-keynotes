@@ -180,3 +180,6 @@
  * Jose Sabater Montes
  * [PDF](http://2016.es.pycon.org/media/keynotes/jsabater-PyConES2016.pdf)
  
+* [Codecombat: Aprendiendo Python mientras matas Orcos](http://2016.es.pycon.org/es/schedule/codecombat-aprendiendo-python-mientras-matas-orco/)
+ * Jose Maria Alvarez Rey
+ * [Slides](http://slides.com/josemariaalvarezrey/pycones2016-codecombat)
