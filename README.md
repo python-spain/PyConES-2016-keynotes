@@ -83,3 +83,7 @@
 * [Cordova, desarrolla apps multiplataformas sin morir en el intento](http://2016.es.pycon.org/es/schedule/cordova-desarrolla-apps-multi/)
  * Andros Fenollosa
  * [Slides](http://2016.es.pycon.org/media/keynotes/Charla_pycones16.odp)
+
+* [Breve introducción a los algoritmos genéticos](http://2016.es.pycon.org/es/schedule/breve-introduccion-a-los-algoritmos-geneticos/)
+ * Siro Moreno
+ * [PDF](http://2016.es.pycon.org/media/keynotes/Introducci%C3%B3n_a_los_algoritmos_gen%C3%A9ticos.pdf)
