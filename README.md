@@ -91,3 +91,7 @@
 * [Efficient Django](http://2016.es.pycon.org/es/schedule/efficient-django/)
  * David Arcos
  * [Slides](http://www.slideshare.net/DZPM/efficient-django-64113328)
+
+* [Python for developing a real-time automated trading platform](http://2016.es.pycon.org/es/schedule/python-for-developing-a-real-time-automated-tradin/)
+ * Miguel Sánchez de León Peque
+ * [Repo](https://peque.github.io/PyConES-Spain-2016-trading/)
