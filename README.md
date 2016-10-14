@@ -75,3 +75,7 @@
 * [Traveling in "datetime"](http://2016.es.pycon.org/es/schedule/traveling-in-datetime/)
  * Mario Corchero
  * [Repo](https://mariocj89.github.io/reveal.js/datetime-pycones2016.html#/)
+
+* [Adelgazando los modelos de Django](http://2016.es.pycon.org/es/schedule/adelgazando-los-modelos-de-django/)
+ * Héctor Pablos López
+ * [Slides](http://slides.com/hectorpablos/adelgazando-modelos-django)
