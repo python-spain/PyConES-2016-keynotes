@@ -20,3 +20,6 @@
  * Sergi Almacellas Abellana
  * [Repo](http://pokoli.github.io/customizing-our-tryton)
 
+* [Paquetes básicos de Python Científico](http://2016.es.pycon.org/es/schedule/paquetes-basicos-de-python-cientifico/)
+ * Siro Moreno
+ * [Repo](https://github.com/AeroPython/Taller-Aeropython-PyConEs16)
