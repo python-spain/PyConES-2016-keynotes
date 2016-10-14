@@ -135,3 +135,7 @@
 * [Tu código apesta, pero puedes tomar medidas](http://2016.es.pycon.org/es/schedule/tu-codigo-apesta-pero-puedes-tomar-medidas/)
  * Jesús Marín
  * [Slides](http://pycones16.jesusmg.org/)
+
+* [py - reglas de asociación](http://2016.es.pycon.org/es/schedule/py-reglas-de-asociacion/)
+ * Claudia Guirao y Miquel Camprodon
+ * [Repo](https://github.com/intiveda/pyreglasasociacion)
