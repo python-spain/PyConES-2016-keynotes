@@ -120,3 +120,6 @@
  * Javi Romero
  * [Slides](https://slides.com/javiromero/depurando-como-un-pro-porque-llenar-un-script-con-prints-es-cutre/live#/)
  
+* [OSINT Tools for security auditing](http://2016.es.pycon.org/es/schedule/osint-tools-for-security-auditing/)
+ * José Manuel Ortega
+ * [Repo](https://github.com/jmortega/osint_tools_security_auditing)
