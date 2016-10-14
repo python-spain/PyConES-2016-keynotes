@@ -55,3 +55,7 @@
 * [Test de infraestructura con pytest](http://2016.es.pycon.org/es/schedule/test-de-infraestructura-con-pytest/)
  * Agustín Herranz Cecilia
  * [Repo](https://github.com/tinproject/test_infraestructura_pycones16)
+
+* [Scaling Django - Running Django in Kubernetes](http://2016.es.pycon.org/es/schedule/scaling-django-running-django-in-kubernetes/)
+ * Ivan Pedrazas
+ * [Doc](https://docs.google.com/presentation/d/1_t0XGu6_4ZKsrLVIk6geQwaXGkWaBcLESdahPC2KWuo/edit?usp=sharing)
